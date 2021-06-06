@@ -1,0 +1,25 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Branching statements/The (un)-ordered sequence/out/
+/Topics/Branching statements/The (un)-ordered sequence/out/production/classes/
+/Topics/Iterating over arrays/Right Rotation/out/
+/Topics/Iterating over arrays/Right Rotation/out/production/classes/
+/Topics/Iterating over arrays/The sum of array elements/out/
+/Topics/Iterating over arrays/The sum of array elements/out/production/classes/
+/Topics/Iterating over arrays/Triples/out/
+/Topics/Iterating over arrays/Triples/out/production/classes/
+/Topics/Multidimensional array/Maximum element in a matrix/out/
+/Topics/Multidimensional array/Maximum element in a matrix/out/production/classes/
+/Topics/Multidimensional array/The third row/out/
+/Topics/Multidimensional array/The third row/out/production/classes/
+/Topics/NPE/Avoid NPE with strings/out/
+/Topics/NPE/Avoid NPE with strings/out/production/classes/
+/Topics/Regexes in programs/Check IP address/out/
+/Topics/Regexes in programs/Check IP address/out/production/classes/
+/Topics/Regexes in programs/Check the clock time/out/
+/Topics/Regexes in programs/Check the clock time/out/production/classes/
+/Topics/Regexes in programs/Vehicle registration number/out/
+/Topics/Regexes in programs/Vehicle registration number/out/production/classes/
